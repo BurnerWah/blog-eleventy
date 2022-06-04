@@ -7,7 +7,7 @@ about: Create a report to help improve this template!
 
 _Short summary of what is going on or to provide context_.
 
-## Steps To Reproduce:
+## Steps To Reproduce
 
 1.  This is step 1.
 1.  This is step 2. All steps should start with '1.'
