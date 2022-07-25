@@ -50,7 +50,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-inclusive-language": "^2.1.1",
     "husky": "^8.0.1",
-    "markdownlint": "^0.26.0",
+    "markdownlint": "^0.26.1",
     "markdownlint-cli2": "^0.4.0",
     "prettier": "^2.7.1"
   },
